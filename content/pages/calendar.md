@@ -4,29 +4,234 @@ title: Calendar
 uid: 1b0daad0-8957-7363-83ca-c1ff86b2f4bd
 ---
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Molecules–the Simple Solid |
-| 2 | Vibrational and Rotational States in Hydrogen |
-| 3 | Metal As a Free Electron Gas |
-| 4 | Vibrations in Solids |
-| 5 | Specific Heat of Lattice Waves |
-| 8 | Lattice Waves in 1D Monatomic Crystals |
-| 9 | Lattice Waves in 1D with Diatmomic Basis |
-| 10 & 11 | Specific Heat of Discrete Lattice |
-| 12 | Electrons in a Periodic Solid |
-| 13 | Electrons in a Periodic Solid |
-| 14 | Electrons in a Periodic Solid |
-| 15 | Electrons in a Periodic Solid |
-| 16 | Nearly Free Electron Bands |
-| 17 | Nearly Free Electron Bands (Part III) |
-| 18 | Properties of Bloch Functions |
-| 19 | Motion of Electronic Wavepackets |
-| 20 | Impurity States |
-| 21 & 22 | Semi Classical Equations of Motions & Electrons and Holes I |
-| 23 | Effective Mass |
-| 24 | Chemical Potential and Equilibrium |
-| 25 | Chemical Potential and Non-equilibrium |
-| 26 | Inhomogeneous Solids |
-| 27 | Scattering of Bloch Functions |
-| 28 | Electron-Phonon Scattering
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Molecules–the Simple Solid
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Vibrational and Rotational States in Hydrogen
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Metal As a Free Electron Gas
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Vibrations in Solids
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Specific Heat of Lattice Waves
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Lattice Waves in 1D Monatomic Crystals
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Lattice Waves in 1D with Diatmomic Basis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10 & 11
+{{< tdclose >}}
+{{< tdopen >}}
+Specific Heat of Discrete Lattice
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Electrons in a Periodic Solid
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Electrons in a Periodic Solid
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Electrons in a Periodic Solid
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Electrons in a Periodic Solid
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Nearly Free Electron Bands
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Nearly Free Electron Bands (Part III)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Properties of Bloch Functions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Motion of Electronic Wavepackets
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Impurity States
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21 & 22
+{{< tdclose >}}
+{{< tdopen >}}
+Semi Classical Equations of Motions & Electrons and Holes I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Effective Mass
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical Potential and Equilibrium
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical Potential and Non-equilibrium
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Inhomogeneous Solids
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Scattering of Bloch Functions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Electron-Phonon Scattering
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
