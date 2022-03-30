@@ -5,6 +5,7 @@ description: This resource contains information related to lattice waves in 3d c
   heat with discrete lattice.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-730-physics-for-solid-state-applications-spring-2003/32cc06d8d443f294470e31ca6a8294ad_lecture_10_11c.pdf
 file_type: application/pdf
+parent_uid: 21ee0f24-a3bc-9d08-bb83-835dd99b5a48
 resourcetype: Document
 title: lecture_10_11c.pdf
 uid: 32cc06d8-d443-f294-470e-31ca6a8294ad
